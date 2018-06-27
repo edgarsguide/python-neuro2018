@@ -5,7 +5,7 @@ Welcome! In this repository, you will find course materials for the Introductory
 
 ### Signing up on Slack
 
-Throughout the course, I will be using [Slack](https://slack.com) for making answering questions and making announcements. Click [**here**](https://join.slack.com/t/edgarsguide/signup) sure to sign up for Edgar's Guide Slack. Your will need to use the school's email address to sign up.
+Throughout the course, I will be using [Slack](https://slack.com) for making answering questions and making announcements. Be sure to sign up to Edgar's Guide Slack group by [**clicking here**](https://join.slack.com/t/edgarsguide/signup) . Your will need to use the school's email address to sign up.
 
 ### Installing Python on your system
 
