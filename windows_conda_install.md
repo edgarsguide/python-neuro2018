@@ -1,4 +1,4 @@
-# Installing Python on Windows via Anaconda
+# Installing Python on Windows with Anaconda
 
 It turns out that there is more than one way to install Python on Windows. While there are pros and cons for each method, if you are just starting out with Python for scientific computation, I highly recommend that you start out with [Anaconda](https://www.anaconda.com). Anaconda distribution bundles together the Python interpreter (the piece of software you will use to run Python code) with many scientific computation Python packages that are considered essential. Here, I provide a step-by-step instructions for installing Python along with essential scientific computing packages and a text editor all through the installation of Anaconda. Let's get started!
 
