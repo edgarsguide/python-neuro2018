@@ -52,7 +52,7 @@ If everything goes well, the Anaconda distribution installation should complete 
 
 ## 3. Checking Anaconda Installation
 
-To verify the Anaconda installation, let's go ahead and learn to launch Jupyter Lab environment. To do so, we are going to use a **terminal**. From Finder, navigate through `Applications > Utilities > Terminal` and launch the terminal program. Open up the start menu (the bottom left Windows icon), and find the `Anaconda prompt` - click on it to launch.
+To verify the Anaconda installation, let's go ahead and learn to launch Jupyter Lab environment. To do so, we are going to use a **terminal**. From Finder, navigate through `Applications > Utilities > Terminal` and launch the terminal program. 
 
 ![anaconda prompt](images/mac_conda_install/launching_terminal.png)
 
