@@ -9,7 +9,7 @@ In this course you will be using your [GitHub](https://github.com) account to si
 
 ### Signing up on Slack
 
-Throughout the course, I will be using [Slack](https://slack.com) for answering questions and making announcements. Be sure to sign up to Edgar's Guide Slack group by [**clicking here**](https://join.slack.com/t/edgarsguide/signup) . Your will need to use the school's email address to sign up.
+Throughout the course, I will be using [Slack](https://slack.com) for answering questions and making announcements. Be sure to sign up to Edgar's Guide Slack group by [**clicking here**](https://join.slack.com/t/edgarsguide/signup). Your will need to use an educational institutional email address to sign up. If your institution's email domain is not listed, please contact me, and I will add them.
 
 ### Installing Python on your system
 
