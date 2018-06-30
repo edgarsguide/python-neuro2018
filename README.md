@@ -20,5 +20,10 @@ Please follow the instructions below to install Python via [Anaconda distributio
 * [macOS](./mac_conda_install.md)
 * [Windows](./windows_conda_install.md)
 
+### Installing Git on your system
 
+Starting from the Week 2, we will use [Git](https://git-scm.com/) to keep track and manage our code for the course. Git is a *versioning system* that lets you keep track of changes made by you or any other person working on the code. When used together with GitHub, it becomes an excellent way to backup, share and collaborate on your coding project. 
 
+Please be sure to visit [Git's website](https://git-scm.com/) and **download & install Git for your operating system**. 
+
+While we are going to learn how to use Git in the course, you are strongly encouraged to read up and learn a bit about it yourself too! Atlassian provides an excellent collection of tutorials on Git, and I strongly recommend you to read their Git [Beginner Tutorial](https://www.atlassian.com/git/tutorials/what-is-version-control) and [Getting Started Tutorial](https://www.atlassian.com/git/tutorials/setting-up-a-repository).
