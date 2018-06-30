@@ -5,11 +5,11 @@ Welcome! In this repository, you will find course materials for the Introductory
 
 ### Create an account on GitHub
 
-In this course you will be using your [GitHub](https://github.com) account to sign in to the Jupyter Hub environment for the first two sessions. Later in the course, we will be making a heavy use of Git and GitHub to organize your code and submit homework assignments. So be sure to **create an account on GitHub!** If you are a student at an educational institution, be sure to check out https://education.github.com/pack for their wonderful Student Developer Pack!
+In this course you will be using your [GitHub](https://github.com) account to sign in to the Jupyter Hub environment for the first two sessions. Later in the course, we will be making a heavy use of Git and GitHub to organize your code and submit homework assignments. So be sure to [**create an account on GitHub**](https://github.com/join) if you don't already have one. If you are a student at an educational institution, be sure to check out https://education.github.com/pack for their wonderful Student Developer Pack!
 
 ### Signing up on Slack
 
-Throughout the course, I will be using [Slack](https://slack.com) for making answering questions and making announcements. Be sure to sign up to Edgar's Guide Slack group by [**clicking here**](https://join.slack.com/t/edgarsguide/signup) . Your will need to use the school's email address to sign up.
+Throughout the course, I will be using [Slack](https://slack.com) for answering questions and making announcements. Be sure to sign up to Edgar's Guide Slack group by [**clicking here**](https://join.slack.com/t/edgarsguide/signup). Your will need to use an educational institutional email address to sign up. If your institution's email domain is not listed, please contact me, and I will add them.
 
 ### Installing Python on your system
 
