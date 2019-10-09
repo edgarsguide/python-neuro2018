@@ -1,6 +1,9 @@
 # Edgar's Guide to Introductory Python and Neuroanalysis 2018
 Welcome! In this repository, you will find course materials for the Introductory Python and Neuroanalysis course that I am running at Baylor College of Medicine for July 2018. Come back periodically to see new material added as we progress through the course.
 
+## Videos
+The video recordings can be found [on YouTube](https://www.youtube.com/playlist?list=PLiFpyLLrq7SagEuF5kG3XeHwgVPMu7VUY).
+
 ## Getting started
 
 ### Create an account on GitHub
